@@ -1,0 +1,14 @@
+C:\Users\Student28\source\repos\ПЗ8\ПЗ8\bin\Debug\ПЗ8.exe.config
+C:\Users\Student28\source\repos\ПЗ8\ПЗ8\bin\Debug\ПЗ8.exe
+C:\Users\Student28\source\repos\ПЗ8\ПЗ8\bin\Debug\ПЗ8.pdb
+C:\Users\Student28\source\repos\ПЗ8\ПЗ8\obj\Debug\ПЗ8.csproj.AssemblyReference.cache
+C:\Users\Student28\source\repos\ПЗ8\ПЗ8\obj\Debug\ПЗ8.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\ПЗ8\ПЗ8\obj\Debug\ПЗ8.exe
+C:\Users\Student28\source\repos\ПЗ8\ПЗ8\obj\Debug\ПЗ8.pdb
+C:\Users\Admin\source\repos\ПЗ8\ПЗ8\bin\Debug\ПЗ8.exe.config
+C:\Users\Admin\source\repos\ПЗ8\ПЗ8\bin\Debug\ПЗ8.exe
+C:\Users\Admin\source\repos\ПЗ8\ПЗ8\bin\Debug\ПЗ8.pdb
+C:\Users\Admin\source\repos\ПЗ8\ПЗ8\obj\Debug\ПЗ8.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ПЗ8\ПЗ8\obj\Debug\ПЗ8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ПЗ8\ПЗ8\obj\Debug\ПЗ8.exe
+C:\Users\Admin\source\repos\ПЗ8\ПЗ8\obj\Debug\ПЗ8.pdb
