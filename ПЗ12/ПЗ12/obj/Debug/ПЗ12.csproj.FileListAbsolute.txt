@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ПЗ12\ПЗ12\bin\Debug\ПЗ12.exe.config
+C:\Users\Admin\source\repos\ПЗ12\ПЗ12\bin\Debug\ПЗ12.exe
+C:\Users\Admin\source\repos\ПЗ12\ПЗ12\bin\Debug\ПЗ12.pdb
+C:\Users\Admin\source\repos\ПЗ12\ПЗ12\obj\Debug\ПЗ12.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ПЗ12\ПЗ12\obj\Debug\ПЗ12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ПЗ12\ПЗ12\obj\Debug\ПЗ12.exe
+C:\Users\Admin\source\repos\ПЗ12\ПЗ12\obj\Debug\ПЗ12.pdb
