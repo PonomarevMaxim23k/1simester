@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Контрольная работа 1\КР1_2\bin\Debug\КР1_2.exe.config
+C:\Users\Admin\source\repos\Контрольная работа 1\КР1_2\bin\Debug\КР1_2.exe
+C:\Users\Admin\source\repos\Контрольная работа 1\КР1_2\bin\Debug\КР1_2.pdb
+C:\Users\Admin\source\repos\Контрольная работа 1\КР1_2\obj\Debug\КР1_2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Контрольная работа 1\КР1_2\obj\Debug\КР1_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Контрольная работа 1\КР1_2\obj\Debug\КР1_2.exe
+C:\Users\Admin\source\repos\Контрольная работа 1\КР1_2\obj\Debug\КР1_2.pdb
