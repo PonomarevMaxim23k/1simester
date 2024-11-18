@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПЗ-19 Пономарев ИС-23К", "ПЗ-19 Пономарев ИС-23К\ПЗ-19 Пономарев ИС-23К.csproj", "{61775020-C300-4525-8D7F-FC8010AE341E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61775020-C300-4525-8D7F-FC8010AE341E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61775020-C300-4525-8D7F-FC8010AE341E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61775020-C300-4525-8D7F-FC8010AE341E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61775020-C300-4525-8D7F-FC8010AE341E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C83BDA18-D6C3-412A-B528-F59086C80AA9}
+	EndGlobalSection
+EndGlobal

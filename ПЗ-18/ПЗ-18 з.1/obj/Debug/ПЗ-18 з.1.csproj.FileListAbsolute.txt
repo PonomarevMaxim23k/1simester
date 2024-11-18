@@ -1,0 +1,7 @@
+C:\Users\Student28\source\repos\ПЗ-18\ПЗ-18 з.1\obj\Debug\ПЗ-18 з.1.csproj.AssemblyReference.cache
+C:\Users\Student28\source\repos\ПЗ-18\ПЗ-18 з.1\obj\Debug\ПЗ-18 з.1.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\ПЗ-18\ПЗ-18 з.1\bin\Debug\ПЗ-18 з.1.exe.config
+C:\Users\Student28\source\repos\ПЗ-18\ПЗ-18 з.1\bin\Debug\ПЗ-18 з.1.exe
+C:\Users\Student28\source\repos\ПЗ-18\ПЗ-18 з.1\bin\Debug\ПЗ-18 з.1.pdb
+C:\Users\Student28\source\repos\ПЗ-18\ПЗ-18 з.1\obj\Debug\ПЗ-18 з.1.exe
+C:\Users\Student28\source\repos\ПЗ-18\ПЗ-18 з.1\obj\Debug\ПЗ-18 з.1.pdb

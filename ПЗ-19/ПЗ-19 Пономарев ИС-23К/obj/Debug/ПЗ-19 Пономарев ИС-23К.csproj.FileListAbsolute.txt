@@ -1,0 +1,7 @@
+C:\Users\Student28\source\repos\ПЗ-19 Пономарев ИС-23К\ПЗ-19 Пономарев ИС-23К\bin\Debug\ПЗ-19 Пономарев ИС-23К.exe.config
+C:\Users\Student28\source\repos\ПЗ-19 Пономарев ИС-23К\ПЗ-19 Пономарев ИС-23К\bin\Debug\ПЗ-19 Пономарев ИС-23К.exe
+C:\Users\Student28\source\repos\ПЗ-19 Пономарев ИС-23К\ПЗ-19 Пономарев ИС-23К\bin\Debug\ПЗ-19 Пономарев ИС-23К.pdb
+C:\Users\Student28\source\repos\ПЗ-19 Пономарев ИС-23К\ПЗ-19 Пономарев ИС-23К\obj\Debug\ПЗ-19 Пономарев ИС-23К.csproj.AssemblyReference.cache
+C:\Users\Student28\source\repos\ПЗ-19 Пономарев ИС-23К\ПЗ-19 Пономарев ИС-23К\obj\Debug\ПЗ-19 Пономарев ИС-23К.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\ПЗ-19 Пономарев ИС-23К\ПЗ-19 Пономарев ИС-23К\obj\Debug\ПЗ-19 Пономарев ИС-23К.exe
+C:\Users\Student28\source\repos\ПЗ-19 Пономарев ИС-23К\ПЗ-19 Пономарев ИС-23К\obj\Debug\ПЗ-19 Пономарев ИС-23К.pdb
