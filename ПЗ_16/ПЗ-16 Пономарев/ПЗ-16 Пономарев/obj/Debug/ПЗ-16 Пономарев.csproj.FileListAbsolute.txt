@@ -1,0 +1,7 @@
+C:\Users\Student28\source\repos\ПЗ-16 Пономарев\ПЗ-16 Пономарев\bin\Debug\ПЗ-16 Пономарев.exe.config
+C:\Users\Student28\source\repos\ПЗ-16 Пономарев\ПЗ-16 Пономарев\bin\Debug\ПЗ-16 Пономарев.exe
+C:\Users\Student28\source\repos\ПЗ-16 Пономарев\ПЗ-16 Пономарев\bin\Debug\ПЗ-16 Пономарев.pdb
+C:\Users\Student28\source\repos\ПЗ-16 Пономарев\ПЗ-16 Пономарев\obj\Debug\ПЗ-16 Пономарев.csproj.AssemblyReference.cache
+C:\Users\Student28\source\repos\ПЗ-16 Пономарев\ПЗ-16 Пономарев\obj\Debug\ПЗ-16 Пономарев.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\ПЗ-16 Пономарев\ПЗ-16 Пономарев\obj\Debug\ПЗ-16 Пономарев.exe
+C:\Users\Student28\source\repos\ПЗ-16 Пономарев\ПЗ-16 Пономарев\obj\Debug\ПЗ-16 Пономарев.pdb
