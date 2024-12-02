@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ПЗ-21\ПЗ-21\bin\Debug\ПЗ-21.exe.config
+C:\Users\Admin\source\repos\ПЗ-21\ПЗ-21\bin\Debug\ПЗ-21.exe
+C:\Users\Admin\source\repos\ПЗ-21\ПЗ-21\bin\Debug\ПЗ-21.pdb
+C:\Users\Admin\source\repos\ПЗ-21\ПЗ-21\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ПЗ-21\ПЗ-21\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ПЗ-21\ПЗ-21\obj\Debug\ПЗ-21.exe
+C:\Users\Admin\source\repos\ПЗ-21\ПЗ-21\obj\Debug\ПЗ-21.pdb
