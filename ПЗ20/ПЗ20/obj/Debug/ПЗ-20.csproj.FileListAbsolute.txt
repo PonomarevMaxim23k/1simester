@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ПЗ-20\ПЗ-20\bin\Debug\ПЗ-20.exe.config
+C:\Users\Admin\source\repos\ПЗ-20\ПЗ-20\bin\Debug\ПЗ-20.exe
+C:\Users\Admin\source\repos\ПЗ-20\ПЗ-20\bin\Debug\ПЗ-20.pdb
+C:\Users\Admin\source\repos\ПЗ-20\ПЗ-20\obj\Debug\ПЗ-20.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ПЗ-20\ПЗ-20\obj\Debug\ПЗ-20.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ПЗ-20\ПЗ-20\obj\Debug\ПЗ-20.exe
+C:\Users\Admin\source\repos\ПЗ-20\ПЗ-20\obj\Debug\ПЗ-20.pdb
