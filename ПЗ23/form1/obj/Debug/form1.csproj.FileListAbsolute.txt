@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ПЗ23\form1\bin\Debug\form1.exe.config
+C:\Users\Admin\source\repos\ПЗ23\form1\bin\Debug\form1.exe
+C:\Users\Admin\source\repos\ПЗ23\form1\bin\Debug\form1.pdb
+C:\Users\Admin\source\repos\ПЗ23\form1\obj\Debug\form1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ПЗ23\form1\obj\Debug\form1.Form1.resources
+C:\Users\Admin\source\repos\ПЗ23\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\Admin\source\repos\ПЗ23\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ПЗ23\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ПЗ23\form1\obj\Debug\form1.exe
+C:\Users\Admin\source\repos\ПЗ23\form1\obj\Debug\form1.pdb
